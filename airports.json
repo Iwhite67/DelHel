@@ -704,5 +704,248 @@
         }
       }
     }
+  },
+  "LFMN": {
+    "elevation": 12,
+    "sids": {
+      "BADOD": {
+        "cfl": 13000,
+        "rwys": {
+          "04R": {
+            "dep": "BADOD6A"
+          },
+          "04L": {
+            "dep": "BADOD6A"
+          },
+          "22L": {
+            "dep": "BADOD6X"
+          },
+          "22R": {
+            "dep": "BADOD6X"
+          }
+        }
+      },
+      "BASIP": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "BASIP6A"
+          },
+          "04L": {
+            "dep": "BASIP6A"
+          },
+          "22L": {
+            "dep": "BASIP6X"
+          },
+          "22R": {
+            "dep": "BASIP6X"
+          }
+        }
+      },
+      "BODRU": {
+        "cfl": 13000,
+        "rwys": {
+          "04R": {
+            "dep": "BODRU6A"
+          },
+          "04L": {
+            "dep": "BODRU6A"
+          },
+          "22L": {
+            "dep": "BODRU6X"
+          },
+          "22R": {
+            "dep": "BODRU6X"
+          }
+        }
+      },
+      "EPOLO": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "EPOLO6A"
+          },
+          "04L": {
+            "dep": "EPOLO6A"
+          },
+          "22L": {
+            "dep": "EPOLO6X"
+          },
+          "22R": {
+            "dep": "EPOLO6X"
+          }
+        }
+      },
+      "IRMAR": {
+        "cfl": 13000,
+        "rwys": {
+          "04R": {
+            "dep": "IRMAR6A"
+          },
+          "04L": {
+            "dep": "IRMAR6A"
+          },
+          "22L": {
+            "dep": "IRMAR6X"
+          },
+          "22R": {
+            "dep": "IRMAR6X"
+          }
+        }
+      },
+      "LANKO": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "LANKO6A"
+          },
+          "04L": {
+            "dep": "LANKO6A"
+          },
+          "22L": {
+            "dep": "LANKO6X"
+          },
+          "22R": {
+            "dep": "LANKO6X"
+          }
+        }
+      },
+      "LONSU": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "LONSU6A"
+          },
+          "04L": {
+            "dep": "LONSU6A"
+          },
+          "22L": {
+            "dep": "LONSU6X"
+          },
+          "22R": {
+            "dep": "LONSU6X"
+          }
+        }
+      },
+      "OKTET": {
+        "cfl": 13000,
+        "rwys": {
+          "04R": {
+            "dep": "OKTET6A"
+          },
+          "04L": {
+            "dep": "OKTET6A"
+          },
+          "22L": {
+            "dep": "OKTET6X"
+          },
+          "22R": {
+            "dep": "OKTET6X"
+          }
+        }
+      },
+      "PERUS": {
+        "cfl": 13000,
+        "rwys": {
+          "04R": {
+            "dep": "PERUS6A"
+          },
+          "04L": {
+            "dep": "PERUS6A"
+          },
+          "22L": {
+            "dep": "PERUS6X"
+          },
+          "22R": {
+            "dep": "PERUS6X"
+          }
+        }
+      },
+      "RUBAS": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "RUBAS6A"
+          },
+          "04L": {
+            "dep": "RUBAS6A"
+          },
+          "22L": {
+            "dep": "RUBAS6X"
+          },
+          "22R": {
+            "dep": "RUBAS6X"
+          }
+        }
+      },
+      "RUBIT": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "RUBIT6A"
+          },
+          "04L": {
+            "dep": "RUBIT6A"
+          },
+          "22L": {
+            "dep": "RUBIT6X"
+          },
+          "22R": {
+            "dep": "RUBIT6X"
+          }
+        }
+      },
+      "SODRI": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "SODRI6A"
+          },
+          "04L": {
+            "dep": "SODRI6A"
+          },
+          "22L": {
+            "dep": "SODRI6X"
+          },
+          "22R": {
+            "dep": "SODRI6X"
+          }
+        }
+      },
+      "TURIL": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "TURIL6A"
+          },
+          "04L": {
+            "dep": "TURIL6A"
+          },
+          "22L": {
+            "dep": "TURIL6X"
+          },
+          "22R": {
+            "dep": "TURIL6X"
+          }
+        }
+      },
+      "VAREK": {
+        "cfl": 10000,
+        "rwys": {
+          "04R": {
+            "dep": "VAREK6A"
+          },
+          "04L": {
+            "dep": "VAREK6A"
+          },
+          "22L": {
+            "dep": "VAREK6X"
+          },
+          "22R": {
+            "dep": "VAREK6X"
+          }
+        }
+      }
+    }
   }
 }
